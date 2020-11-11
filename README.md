@@ -19,7 +19,7 @@ Project is created with:
 ## Setup
 To run this project, open the index.html file.
 
-![demo](/ToDoApp/demo/todoapp.gif)
+![demo](/demo/changeBackgroundColor.gif)
 
 ## Status
 Project is:  _finished
